@@ -1,0 +1,32 @@
+.container-fluid {
+
+  .row {
+  }
+
+  .header {
+    height: 20px;
+    background-color: yellow;
+  }
+
+  .splash {
+    height: auto;
+    background-color: blue;
+  }
+
+  .news {
+    height: 500px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+  }
+
+  .contact {
+    height: 200px;
+    background-color: brown;
+  }
+
+  .footer {
+    height: 40px;
+    background-color: purple;
+  }
+}
